@@ -1,0 +1,1 @@
+só teve um nesse aqui por que o foco dele foi as variáveis ao invés do if e else
